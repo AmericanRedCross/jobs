@@ -1,4 +1,4 @@
-GIS Analyst, Philippines Response
+GIS Analyst - *Philippines Response*
 ========
 *Temporary Full-time, 3 months*
 
