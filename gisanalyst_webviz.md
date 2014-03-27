@@ -1,11 +1,13 @@
 GIS Analyst - *Web Map Support*
 ========
-*Temporary Full-time, 6 months*
+*Temporary Full-time, 6 months, 40 hours/week*
 
 ##Summary
 The American Red Cross (ARC) International Services Department (ISD) seeks to prevent and alleviate human suffering around the world by responding to disasters, building safer, more resilient communities, and educating future humanitarians. The American Red Cross continues to deepen and expand its international programming while also working to strengthen the global Red Cross Red Crescent Network, in order to deliver critical assistance to some of the most vulnerable communities in the world.
 
 The American Red Cross is looking for a temporary full-time GIS analyst/developer to help create the next generation of spatial tools for the International Services Department.  This position will work as part of dynamic team of humanitarian GIS and information management professionals.  This position will report to the director of information management, receiving day-to-day direction from the senior geospatial engineer.
+
+*This position is pending final project approval.*
 
 ##Responsibilities
 - Test and provide feedback on interaction mapping platform under development
@@ -27,4 +29,4 @@ The American Red Cross is looking for a temporary full-time GIS analyst/develope
 *This position is pending final project approval.*
 
 ##Contact
-If interested please contact [Andrea Darrington Heidtke](mailto://andrea.darringtonheidtke@redcross.org). Official job posting will be available shortly at [redcross.org](http://www.redcross.org/about-us/careers)
+If interested please contact [Andrea Darrington Heidtke](mailto://andrea.darringtonheidtke@redcross.org). Official job posting will be available shortly at [redcross.org](https://www.americanredcross.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=42934&CurrentPage=1)
