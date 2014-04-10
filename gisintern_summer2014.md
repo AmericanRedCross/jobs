@@ -7,7 +7,7 @@ The American Red Cross (ARC) International Services Department (ISD) seeks to pr
 
 The American Red Cross is looking for a part-time intern to help create maps, process and analyze data, and undertake geospatial research projects that support our international programs.  This position will work as part of a dynamic team of humanitarian information management professionals.  We are looking for someone who can work full time (40 hours per week) for the duration of the summer.
 
-Responsibilities
+##Responsibilities
 - Review, streamline and organize geographic data submitted from American Red Cross field projects around the world.
 - Create maps that illustrate American Red Cross work around the world, from disaster preparedness to community health. When necessary, make these maps interactive and accessible online.
 - Create training materials for various hardware and software packages for national societies’ field office use. Then, package these materials into editable, open-source friendly formats using Github.
@@ -16,7 +16,7 @@ Responsibilities
 - Undertake long-term research projects to develop stronger GIS tools and resources within the International Services Department.
 - Support the info and reporting team with communications tasks as necessary.
 
-Qualifications
+##Qualifications
 - Current student or recent graduate working toward BS, MS or certificate degree in geography, GIS or related field.
 - High level of comfort using Adobe Illustrator and InDesign to produce maps and/or documents
 - Prior experience working with Github, HTML, CSS, Javascript and/or CartoCSS
@@ -26,5 +26,5 @@ Qualifications
 - Experience using command line tools or scripts (e.g. GDAL, Python) to geoprocess data a plus
 - Ability to harmonize an independent work style with larger team priorities
 
-
-Interested candidates are requested to submit a CV
+##Contact
+If interested send a curriculum vitae or resume and a 3-4 map sample portfolio to [Andrea Darrington Heidtke](mailto://andrea.darringtonheidtke@redcross.org). Official job posting will be available shortly at [redcross.org](http://www.redcross.org/about-us/careers)
