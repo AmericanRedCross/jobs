@@ -1,13 +1,13 @@
 ### Opportunity:
 ISD: GIS-UAV Volunteer
 ### Purpose:
-Support improvements to existing GIS team UAV capabilities by traveling internationally with an ISD-GIS team member. Assist with improvements and modifications with OpenDroneMap integration, participate in drone piloting, and assist with imagery workflow. Support the GIS team through different ways of cleaning and uploading data collected in an offline environment. Provide input where applicable on best practices for UAV use for humanitarian purposes. Trip will be to the Philippines in mid-April 2017 for two to three weeks.
-### Location(s):
-Remote
-### Responsibilities:
-Share and adhere to the Red Cross fundamental principles and values; Become familiar and comfortable with Red Cross GIS tools; Coordinate with GIS team for support and reporting.
-### Time Commitment:
+Support improvements to existing GIS team UAV capabilities by traveling internationally with an ISD-GIS team member. Assist with improvements and modifications with OpenDroneMap integration, participate in drone piloting, and assist with imagery workflow. Support the GIS team through different ways of cleaning and uploading data collected in an offline environment. Provide input where applicable on best practices for UAV use for humanitarian purposes. Trip will be to the Philippines in April 2017 for two to three weeks.
+### Location(s)/ Time Commitment:
 2-3 weeks international travel w/ prep and follow up that can be remote
+### Responsibilities:
+- Share and adhere to the Red Cross fundamental principles and values. 
+- Become familiar and comfortable with Red Cross GIS tools. 
+- Coordinate with GIS team for support and reporting.
 ### Qualifications:
 - “Maker” skills and a DIY ethic
 - Cross-cultural sensitivity
