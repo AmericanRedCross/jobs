@@ -1,4 +1,4 @@
-## no longer open
+## position no longer open
 
 GIS Intern
 ========

@@ -1,4 +1,4 @@
-## not currently open
+## position no longer open
 
 GIS Volunteer
 ========
@@ -26,6 +26,3 @@ The American Red Cross is looking for part-time volunteers to improve to assist 
 - Experience using Microsoft Excel, Access, and/or geodatabases to organize data
 - Desired but not required:  prior experience with Tile Mill, Mapbox, PostGIS, GeoNode, Node.js, and OpenStreetMap, CSS, JavaScript, jQuery, and SQL
 - Experience with the Red Cross network and international humanitarian work is helpful
-
-### Contact
-If interested send a curriculum vitae or resume and a 3-4 map sample portfolio to [Dale Kunce](mailto://dale.kunce@redcross.org).

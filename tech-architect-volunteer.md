@@ -1,6 +1,9 @@
-## Technology Architect Volunteer
-For more information email daniel.joseph@redcross.org
+Technology Architect Volunteer
+========
+*This is an unpaid volunteer position*
+
 ### To apply
+- For more information email daniel.joseph@redcross.org
 - Please visit: http://www.redcross.org/volunteer/become-a-volunteer#step1
 - Scroll down to "Browse Volunteer Opportunities in Your Community" then enter your zip code in the "Browse Opportunities" box in the center of the page (no need to select an area of interest)
 - Click through the pages of results (there may be about 5 pages) to find the "NHQ:ISD - Technology Project Architect" opportunity, in addition to other available positions 
@@ -8,14 +11,17 @@ For more information email daniel.joseph@redcross.org
 
 ### Purpose
 The position collaborates with GIS team members to design, develop, maintain, and/or implement technological solutions to various challenges faced in our international disaster response and preparedness programs.
+
 ### Key Responsibilities
 This position supports the disaster response and preparedness programs of the International Services Department by working with the GIS team on one or more of the following:
 - Design, create new, maintain, test, or improve existing, websites or cloud-based applications
 - Design, create new, maintain, test, or improve existing, mobile applications (iOS and/or Android)
 - Design, build, and test integrated hardware/software tools
 - Volunteer will work directly with the GIS Officer but may receive guidance from other members of the Information Management, Monitoring, Evaluation, and Learning (IMMEL) team, as well as communicate with other teams and the wider Red Cross Red Crescent movement partners as projects demand. 
+
 ### Time Commitment
 6+ hours per week
+
 ### Qualifications
 - Passion for the Red Cross mission, commitment to the American Red Cross values
 - Strong communication, coordination, and time management skills
@@ -26,6 +32,7 @@ This position supports the disaster response and preparedness programs of the In
 - Experience with Node.js is a plus, but not required
 - Experience with Amazon Web Services is a plus, but not required
 - Experience working with DIY electronics is a plus, but not required (for example, Raspberry Pi projects)
+
 ### Training
 - Guidance on software development and hardware prototyping when possible and applicable
 - Geo spatial processing and principles when applicable
