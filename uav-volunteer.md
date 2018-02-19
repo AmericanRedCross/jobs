@@ -1,3 +1,5 @@
+## no longer open
+
 ### Opportunity:
 ISD: GIS-UAV Volunteer
 ### Purpose:
@@ -27,5 +29,5 @@ Support improvements to existing GIS team UAV capabilities by traveling internat
 - Must be able to legally travel to the Philippines in April 2017
 ----------
 ### Apply:
-- [Application link](https://volunteerconnection.redcross.org/?nd=vms_volunteer_opportunity_detail&placement_id=113845&return_jid=29447284) (requires creating an account)
+- ~[Application link](https://volunteerconnection.redcross.org/?nd=vms_volunteer_opportunity_detail&placement_id=113845&return_jid=29447284) (requires creating an account)~
 - Email daniel.joseph@redcross.org with questions
