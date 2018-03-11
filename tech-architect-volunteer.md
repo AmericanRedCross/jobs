@@ -1,13 +1,6 @@
 Technology Architect Volunteer
 ========
-*This is an unpaid volunteer position*
-
-### To apply
-- For more information email daniel.joseph@redcross.org
-- Please visit: http://www.redcross.org/volunteer/become-a-volunteer#step1
-- Scroll down to "Browse Volunteer Opportunities in Your Community" then enter your zip code in the "Browse Opportunities" box in the center of the page (no need to select an area of interest)
-- Click through the pages of results (there may be about 5 pages) to find the "NHQ:ISD - Technology Project Architect" opportunity, in addition to other available positions 
-- Click on the position(s) of interest and "apply now" to get started in submitting your application 
+*This is an unpaid volunteer position. For more information email daniel.joseph@redcross.org*
 
 ### Purpose
 The position collaborates with GIS team members to design, develop, maintain, and/or implement technological solutions to various challenges faced in our international disaster response and preparedness programs.
